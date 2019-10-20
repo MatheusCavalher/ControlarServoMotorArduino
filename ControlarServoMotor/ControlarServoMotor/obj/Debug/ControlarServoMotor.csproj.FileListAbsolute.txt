@@ -1,0 +1,39 @@
+c:\users\matheus\documents\visual studio 2012\Projects\ControlarServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.exe.config
+c:\users\matheus\documents\visual studio 2012\Projects\ControlarServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.exe
+c:\users\matheus\documents\visual studio 2012\Projects\ControlarServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.pdb
+c:\users\matheus\documents\visual studio 2012\Projects\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.csprojResolveAssemblyReference.cache
+c:\users\matheus\documents\visual studio 2012\Projects\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.frmPrincipal.resources
+c:\users\matheus\documents\visual studio 2012\Projects\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.Properties.Resources.resources
+c:\users\matheus\documents\visual studio 2012\Projects\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.csproj.GenerateResource.Cache
+c:\users\matheus\documents\visual studio 2012\Projects\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.exe
+c:\users\matheus\documents\visual studio 2012\Projects\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.pdb
+E:\Controlando 2 servos motores com  c#\ControlarServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.exe.config
+E:\Controlando 2 servos motores com  c#\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.exe
+E:\Controlando 2 servos motores com  c#\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.pdb
+E:\Controlando 2 servos motores com  c#\ControlarServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.exe
+E:\Controlando 2 servos motores com  c#\ControlarServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.pdb
+E:\Controlando 2 servos motores com  c#\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.csprojResolveAssemblyReference.cache
+E:\Controlando 2 servos motores com  c#\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.frmPrincipal.resources
+E:\Controlando 2 servos motores com  c#\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.Properties.Resources.resources
+E:\Controlando 2 servos motores com  c#\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\ControlarServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.exe.config
+C:\Users\Matheus\Desktop\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.exe
+C:\Users\Matheus\Desktop\ControlarServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.pdb
+C:\Users\Matheus\Desktop\ControlarDoisServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.exe.config
+C:\Users\Matheus\Desktop\ControlarDoisServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.exe
+C:\Users\Matheus\Desktop\ControlarDoisServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.pdb
+C:\Users\Matheus\Desktop\ControlarDoisServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.exe
+C:\Users\Matheus\Desktop\ControlarDoisServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.pdb
+C:\Users\Matheus\Desktop\ControlarDoisServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\ControlarDoisServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.frmPrincipal.resources
+C:\Users\Matheus\Desktop\ControlarDoisServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.Properties.Resources.resources
+C:\Users\Matheus\Desktop\ControlarDoisServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.csproj.GenerateResource.Cache
+C:\Users\Brito\Desktop\Projeto braco robotico\Controlando Servo Motores com c#\ControlarDoisServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.exe.config
+C:\Users\Brito\Desktop\Projeto braco robotico\Controlando Servo Motores com c#\ControlarDoisServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.exe
+C:\Users\Brito\Desktop\Projeto braco robotico\Controlando Servo Motores com c#\ControlarDoisServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.pdb
+C:\Users\Brito\Desktop\Projeto braco robotico\Controlando Servo Motores com c#\ControlarDoisServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.exe
+C:\Users\Brito\Desktop\Projeto braco robotico\Controlando Servo Motores com c#\ControlarDoisServoMotor\ControlarServoMotor\bin\Debug\ControlarServoMotor.pdb
+C:\Users\Brito\Desktop\Projeto braco robotico\Controlando Servo Motores com c#\ControlarDoisServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.csprojResolveAssemblyReference.cache
+C:\Users\Brito\Desktop\Projeto braco robotico\Controlando Servo Motores com c#\ControlarDoisServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.frmPrincipal.resources
+C:\Users\Brito\Desktop\Projeto braco robotico\Controlando Servo Motores com c#\ControlarDoisServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.Properties.Resources.resources
+C:\Users\Brito\Desktop\Projeto braco robotico\Controlando Servo Motores com c#\ControlarDoisServoMotor\ControlarServoMotor\obj\Debug\ControlarServoMotor.csproj.GenerateResource.Cache
